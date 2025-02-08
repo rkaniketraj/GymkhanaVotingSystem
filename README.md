@@ -35,9 +35,5 @@ This project is a **Vote Counting System** implemented in **C** using **linked l
 - Aniket Raj
   Chirag Agrawal, Divyansh Sharma, Shuhani Pandey
 
-## License
-This project is open-source and free to use for learning purposes.
 
----
-We hope you find this project useful in understanding **linked lists** and **dynamic memory management** in C. Happy coding! 🚀
 
